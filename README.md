@@ -1,2 +1,2 @@
-# turorial-github
+# tutorial-github
 repo belajar git
